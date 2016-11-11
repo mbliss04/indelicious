@@ -1,5 +1,5 @@
 {
-  "name": "white-label-template",
+  "name": "indelicious",
   "version": "1.0.0",
   "description": "A starter website to use with the White Label API",
   "main": "index.js",
@@ -21,28 +21,15 @@
     "url": "git+https://github.com/NoonPacific/Noon-Pacific-Web-WL.git"
   },
   "keywords": [
-    "white",
-    "label",
-    "white",
-    "label",
-    "noon",
-    "pacific",
-    "template",
-    "api",
-    "angular"
+    "indelicious",
+    "music",
+    "playlist",
+    "label"
   ],
   "contributors": [
     {
-      "name": "Jake Runzer",
-      "url": "https://github.com/coffee-cup"
-    },
-    {
-      "name": "Clark Dinnison",
-      "url": "https://github.com/cdinnison"
-    },
-    {
-      "name": "Alex Givens",
-      "url": "https://github.com/AlexGivens"
+      "name": "McCall Bliss",
+      "url": "https://github.com/mbliss04"
     }
   ],
   "license": "MIT",
